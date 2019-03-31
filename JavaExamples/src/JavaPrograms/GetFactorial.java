@@ -2,6 +2,8 @@ package JavaPrograms;
 
 import java.util.Scanner;
 
+//This program prints the factorial of a number entered by the user
+
 public class GetFactorial {
 
 	public static void main(String[] args) {

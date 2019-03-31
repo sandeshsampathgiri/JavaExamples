@@ -1,6 +1,7 @@
 package JavaPrograms;
-
 import java.util.Scanner;
+
+//This program prints whether the entered number is prime or not
 
 public class PrimeOrNot {
 
