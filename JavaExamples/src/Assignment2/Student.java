@@ -26,7 +26,7 @@ public class Student {
 		Student s1=new Student();
 		s1.name="John";
 		s1.roll_no=2;
-		s1.phone_no=5696;
+		s1.phone_no=123;
 		s1.address="456 Little Street";
 		
 		Student s2=new Student("Sam",3,26630171,"123 Main Street");
